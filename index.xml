@@ -10,18 +10,22 @@
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Invalid Date</lastBuildDate>
+<lastBuildDate>Fri, 14 Nov 2025 06:00:00 GMT</lastBuildDate>
 <item>
-  <title>CHANGE THIS TO BE THE TITLE OF YOUR POST</title>
+  <title>The Michael Phelps Legacy: Showing that longevity builds an athletic advantage</title>
   <dc:creator>Gavyn Nylander</dc:creator>
-  <link>https://your-website-url.example.com/posts/does-more-medals-prove-athletic-ability/</link>
+  <link>https://your-website-url.example.com/posts/does-longevity-give-an-athletic-advantage/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>word word word word word word word word</p>
+<p>When you hear the words Olympic swimming, one name always comes to mind: Michael Phelps. In more recent years since the retirement of the legend, another name has been brought up in conversation: Caeleb Dressel. Both have won many medals in their field and have made many contributions to the sport. Yet one key factors sets them apart,its not just the medals or their speed, but the duration of how long they have participated in the Olympics for.&nbsp;</p>
+<p>&nbsp;</p>
+<p>In 2000, Phelps competed in his first Olympics at the age of 15 years old. Dressel, however, is much newer to the Olympic stage competing in his first Olympic games at the 2016 Rio Olympics, showing the vast difference in the duration of their Olympic careers.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Phelps background highlights how a continued involvement in a sport can have its benefits. Years at the top level provides more opportunities to develop the competitive spirit that it takes to be successful on a global stage.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -44,7 +48,7 @@ font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">read_csv</span>(<span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"SPMC350-Data - CaelebvMichaelData.csv"</span>)</span>
+font-style: inherit;">"SPMC350-Data3 - CaelebvMichaelData.csv"</span>)</span>
 <span id="cb1-7"></span>
 <span id="cb1-8">usa <span class="ot" style="color: #003B4F;
 background-color: null;
@@ -251,14 +255,16 @@ font-style: inherit;">"plot"</span></span>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/does-more-medals-prove-athletic-ability/index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="https://your-website-url.example.com/posts/does-longevity-give-an-athletic-advantage/index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
 </div>
-<p>word word word</p>
-<p>word word word</p>
-<p>word word word word</p>
+<p>The 50-meter reaction times of Phelps and Dressel show how close their performances are. Both athletes maintain the same level of speed right from the start, despite there being a gap in the levels between these two.</p>
+<p>&nbsp;</p>
+<p>Given that in the past Olympics, Dressel has shown that he should be held to the same level as Phelps, breaking his record in the 100-meter butterfly. However, Phelps’s reaction times demonstrate that not only is he still able to compete, but that he is even able to surpass the competition.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Since Dressel is still in the middle of his career, his points on the chart are more recent. Phelps points span over a longer period of time, showing how dominate he has been through his different competitive periods.&nbsp;</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -565,12 +571,15 @@ font-style: inherit;">"plot"</span></span>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/does-more-medals-prove-athletic-ability/index_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="https://your-website-url.example.com/posts/does-longevity-give-an-athletic-advantage/index_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
 </div>
-<p>word word word word word word word word word word word word word word word word word word</p>
+<p>The difference is quite noticeable when we are looking at the medals between the two athletes. In just three Olympics, Dressel has won 10 medals, with 9 of those being gold medals. But when you compare that to Phelps 28 medals, it tells us a much bigger story. This highlights how staying in a sport for a long period of time increases the chances of achieving different accomplishments in the sport. Such as Phelps setting multiple records and continuously breaking them.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Every Olympics gives these athletes more races, relays, finals, and opportunities to improve with each additional event. Phelps has had years to compete, qualify, train and win all that he could in the last 16 years which helped him with his unimaginable medal count.</p>
+<p>There is no doubt that with the training, Dressel could outcompete Phelps in the future, as he could continue to break more records and earn more medals. Phelps’s career tells us that being one of the greats requires the hard work and dedication that Phelps has put in over the years of his Olympic career.&nbsp;</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -580,7 +589,7 @@ font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">read_csv</span>(<span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"SPMC 350 - Data - Caeleb v Michael Data.csv"</span>)</span>
+font-style: inherit;">"SPMC350-Data3 - CaelebvMichaelData.csv"</span>)</span>
 <span id="cb3-2"></span>
 <span id="cb3-3">compmedals <span class="ot" style="color: #003B4F;
 background-color: null;
@@ -1341,10 +1350,10 @@ font-style: inherit;">"Caeleb Dressel"</span>)</span>
 </tr>
 <tr class="even">
 <td class="gt_row gt_left gt_striped" headers="Swimmer" style="background-color: #FFA500; color: #FFFFFF">Caeleb Dressel</td>
-<td class="gt_row gt_right gt_striped" headers="Gold" style="background-color: #FFA500; color: #FFFFFF">7</td>
-<td class="gt_row gt_right gt_striped" headers="Silver" style="background-color: #FFA500; color: #FFFFFF">0</td>
+<td class="gt_row gt_right gt_striped" headers="Gold" style="background-color: #FFA500; color: #FFFFFF">9</td>
+<td class="gt_row gt_right gt_striped" headers="Silver" style="background-color: #FFA500; color: #FFFFFF">1</td>
 <td class="gt_row gt_right gt_striped" headers="Bronze" style="background-color: #FFA500; color: #FFFFFF">0</td>
-<td class="gt_row gt_right gt_striped" headers="Total" style="background-color: #FFA500; color: #FFFFFF">7</td>
+<td class="gt_row gt_right gt_striped" headers="Total" style="background-color: #FFA500; color: #FFFFFF">10</td>
 </tr>
 <tr class="odd">
 <td class="gt_row gt_left" headers="Swimmer">Kristin Otto</td>
@@ -1371,15 +1380,18 @@ font-style: inherit;">"Caeleb Dressel"</span>)</span>
 </div>
 </div>
 </div>
+<p>The difference between the two swimmers is an even bigger gap when you compare the two athletes’ medal counts. Given how many years Phelps has competed at the top level, he has won 28 Olympic medals, 23 gold medals more than any other Olympic swimmer. Dressel has already won 9 gold medals, which is impressive considering he has only competed in three Olympics.&nbsp;</p>
+<p>These numbers proves that longevity plays a more important factor in sports. This idea appears in other sports, not just in the swiming world. It shows that staying in a sport for years helps one gain more opportunities to compete, gain experience, and build their accomplishments over the years. The amount of time an athlete gives to their sport leaves a legacy for many to follow and hope to build on someday.&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
  ]]></description>
   <category>olympics</category>
   <category>swimming</category>
-  <guid>https://your-website-url.example.com/posts/does-more-medals-prove-athletic-ability/</guid>
-  <pubDate>Invalid Date</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/does-more-medals-prove-athletic-ability/image.png" medium="image" type="image/png" height="91" width="144"/>
+  <guid>https://your-website-url.example.com/posts/does-longevity-give-an-athletic-advantage/</guid>
+  <pubDate>Fri, 14 Nov 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/does-longevity-give-an-athletic-advantage/image.png" medium="image" type="image/png" height="91" width="144"/>
 </item>
 </channel>
 </rss>
