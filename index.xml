@@ -21,11 +21,11 @@
 
 
 
-<p>When you hear the words Olympic swimming, one name always comes to mind: Michael Phelps. Since the retirement of the legend, another name has been brought up in conversation: Caeleb Dressel. Both have won many medals in their field and have made many contributions to the sport. Yet one key factors sets them apart,its not just the medals or their speed, but the duration of how long they have participated in the Olympics for.&nbsp;</p>
+<p>When you hear about Olympic swimming, one name always comes to mind: Michael Phelps. Since the retirement of the legend, another name has been brought up in conversation: Caeleb Dressel. Both have won many medals in their field and have made many contributions to the sport. Yet one key factor sets them apart, it’s not just the medals or their speed, but the duration of how long they have participated in the Olympics for.&nbsp;</p>
 <p>&nbsp;</p>
-<p>In 2000, Phelps competed in his first Olympics at the age of 15 years old. Dressel, however, is much newer to the Olympic stage competing in his first Olympic games at the 2016 Rio Olympics, showing the vast difference in the duration of their Olympic careers.&nbsp;</p>
+<p>In 2000, Phelps competed in his first Olympics at the age of 15. Dressel, however, is much newer to the Olympic stage competing in his first games in 2016, showing the wide difference in the duration of their Olympic careers.&nbsp;</p>
 <p>&nbsp;</p>
-<p>Phelps background highlights how a continued involvement in a sport can have its benefits. Years at the top level provides more opportunities to develop the competitive spirit that it takes to be successful on a global stage.</p>
+<p>Phelps background highlights how continued involvement in a sport can have its benefits. Years at the highest level provide more opportunities to develop the competitive spirit that it takes to be successful on a global stage.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -260,11 +260,11 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>The 50-meter reaction times of Phelps and Dressel show how close their performances are. Both athletes maintain the same level of speed right from the start, despite there being a gap in the levels between these two.</p>
-<p>&nbsp;</p>
-<p>Dressel has shown that he should be held to the same level as Phelps, breaking his record in the 100-meter butterfly. However, Phelps’s reaction times demonstrate that not only is he still able to compete, but that he is even able to surpass the competition.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Since Dressel is still in the middle of his career, his points on the chart are more recent. Phelps points span over a longer period of time, showing how dominate he has been through his different competitive periods.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Dressel has shown that he should be held to the same level as Phelps, breaking his record in the 100-meter butterfly. However, Phelps’s reaction times demonstrate that not only is he still able to compete, but that he is able to surpass the competition.&nbsp;</p>
+<p>&nbsp;</p>
+<p>The 50-meter reaction times of Phelps and Dressel show how close their performances are. Both athletes maintain the same level of speed right from the start, despite there being a gap in the levels between these two.&nbsp;But Phelps has the advantage of his reaction times, demonstrating that with more years under him, Phelps has a bit of an athletic advantage.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -508,7 +508,7 @@ font-style: inherit;">"While Phelps and Dressel stay in the same range in their 
 background-color: null;
 font-style: inherit;">\n</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">to prove why he is the most decorated swimmer."</span>, </span>
+font-style: inherit;">to prove why he is the most decorated swimmer based on his reaction time."</span>, </span>
 <span id="cb2-34">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption=</span><span class="st" style="color: #20794D;
@@ -576,10 +576,10 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>The difference is quite noticeable when we are looking at the medals between the two athletes. In just three Olympics, Dressel has won 10 medals, with 9 of those being gold medals. But when you compare that to Phelps 28 medals, it tells us a much bigger story. This highlights how staying in a sport for a long period of time increases the chances of achieving different accomplishments in the sport. Such as Phelps setting multiple records and continuously breaking them.&nbsp;</p>
+<p>The difference becomes clearer when you consider the accomplishments of each individual athlete. Phelps has competed at the top level for six Olympic games, where Dressel has only competed in three. Having competed on this stage for so long shows how much experience and dedication can impact an athlete’s career.</p>
 <p>&nbsp;</p>
-<p>Every Olympics gives these athletes more races, relays, finals, and opportunities to improve with each additional event. Phelps has had years to compete, qualify, train and win all that he could in the last 16 years which helped him with his unimaginable medal count.</p>
-<p>There is no doubt that with the training, Dressel could outcompete Phelps in the future, as he could continue to break more records and earn more medals. Phelps’s career tells us that being one of the greats requires the hard work and dedication that Phelps has put in over the years of his Olympic career.&nbsp;</p>
+<p>Every Olympics gives these athletes more races, relays, finals, and opportunities to improve with each additional event. Phelps has had years to train and compete for 16 years, which is shown in Phelps extensive medal collection.</p>
+<p>There is no doubt that with the training, Dressel could out compete Phelps in the future, as he could continue to break more records and earn more medals. Phelps’s career shows that being one of the greats requires the hard work and dedication that Phelps has put in over the years of his Olympic career.&nbsp;</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -628,7 +628,7 @@ font-style: inherit;">"Most Medals Won by Olympic Swimmers"</span>,</span>
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"While Michael Phelps may have more medals than Caeleb Dressel, looking at the table it tells us that Caeleb has only ever won gold medals in his Olympic career so far"</span></span>
+font-style: inherit;">"16 years of training shows why Michael Phelps is considered one of the greats"</span></span>
 <span id="cb3-11">  )<span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">|&gt;</span> <span class="fu" style="color: #4758AB;
@@ -728,7 +728,7 @@ font-style: inherit;">weight =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">px</span>(<span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">3</span>)),</span>
+font-style: inherit;">4</span>)),</span>
 <span id="cb3-25">       <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">cell_text</span>(<span class="at" style="color: #657422;
@@ -739,7 +739,7 @@ font-style: inherit;">"bold"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">12</span>)</span>
+font-style: inherit;">13</span>)</span>
 <span id="cb3-26">     )</span>
 <span id="cb3-27">   ) <span class="sc" style="color: #5E5E5E;
 background-color: null;
@@ -1288,14 +1288,14 @@ font-style: inherit;">"Caeleb Dressel"</span>)</span>
 <td colspan="5" class="gt_heading gt_title gt_font_normal" style="text-align: left; color: #000000; font-weight: bold;">Most Medals Won by Olympic Swimmers</td>
 </tr>
 <tr class="gt_heading even">
-<td colspan="5" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style="text-align: left; color: #000000;">While Michael Phelps may have more medals than Caeleb Dressel, looking at the table it tells us that Caeleb has only ever won gold medals in his Olympic career so far</td>
+<td colspan="5" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style="text-align: left; color: #000000;">16 years of training shows why Michael Phelps is considered one of the greats</td>
 </tr>
 <tr class="gt_col_headings header">
-<th id="Swimmer" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 12; font-weight: bold" scope="col">Swimmer</th>
-<th id="Gold" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 12; font-weight: bold" scope="col">Gold</th>
-<th id="Silver" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 12; font-weight: bold" scope="col">Silver</th>
-<th id="Bronze" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 12; font-weight: bold" scope="col">Bronze</th>
-<th id="Total" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 12; font-weight: bold" scope="col">Total</th>
+<th id="Swimmer" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="border-bottom-width: 4px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 13; font-weight: bold" scope="col">Swimmer</th>
+<th id="Gold" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="border-bottom-width: 4px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 13; font-weight: bold" scope="col">Gold</th>
+<th id="Silver" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="border-bottom-width: 4px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 13; font-weight: bold" scope="col">Silver</th>
+<th id="Bronze" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="border-bottom-width: 4px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 13; font-weight: bold" scope="col">Bronze</th>
+<th id="Total" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="border-bottom-width: 4px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 13; font-weight: bold" scope="col">Total</th>
 </tr>
 </thead>
 <tbody class="gt_table_body">
@@ -1380,8 +1380,8 @@ font-style: inherit;">"Caeleb Dressel"</span>)</span>
 </div>
 </div>
 </div>
-<p>The difference between the two swimmers is an even bigger gap when you compare the two athletes’ medal counts. Given how many years Phelps has competed at the top level, he has won 28 Olympic medals, 23 gold medals more than any other Olympic swimmer. Dressel has already won 9 gold medals, which is impressive considering he has only competed in three Olympics.&nbsp;</p>
-<p>These numbers proves that longevity plays a more important factor in sports. This idea appears in other sports, not just in the swiming world. It shows that staying in a sport for years helps one gain more opportunities to compete, gain experience, and build their accomplishments over the years. The amount of time an athlete gives to their sport leaves a legacy for many to follow and hope to build on someday.&nbsp;</p>
+<p>When comparing these two athletes medal counts, the difference between them become even more obvious. Phelps has won more medals than any other swimmer. With 28 medals showing what years of work looks like.&nbsp;</p>
+<p>The data illustrates how long-term commitment in sports has positive outcomes for the athlete. This is something that is shown in other sports, not just in the swimming world. Years of dedication to a sport contributes to building a legacy that inspires other athletes to follow long and hope to be a part of that same legacy someday.</p>
 <p>&nbsp;</p>
 
 
