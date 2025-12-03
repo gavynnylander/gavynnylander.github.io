@@ -195,7 +195,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="b2x5bXBpY3M=">olympics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3dpbW1pbmc=">swimming <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Rm9vdGJhbGw=">Football <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TkNBQQ==">NCAA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="b2x5bXBpY3M=">olympics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3dpbW1pbmc=">swimming <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -209,7 +209,50 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="b2x5bXBpY3MlMkNzd2ltbWluZw==" data-listing-date-sort="1763100000000" data-listing-file-modified-sort="1763342521999" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1196">
+<div class="quarto-post image-right" data-index="0" data-categories="TkNBQSUyQ0Zvb3RiYWxs" data-listing-date-sort="1764914400000" data-listing-file-modified-sort="1764783125949" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="553">
+<div class="thumbnail"><a href="./posts/should-emmett-johnson-be-taken-serious-for-heisman/index.html" class="no-external">
+
+<img loading="lazy" src="./posts/should-emmett-johnson-be-taken-serious-for-heisman/image.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/should-emmett-johnson-be-taken-serious-for-heisman/index.html" class="no-external">Making The Case For Emmett Johnson In The Heisman Conversation</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TkNBQQ=='); return false;">NCAA</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9vdGJhbGw='); return false;">Football</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/should-emmett-johnson-be-taken-serious-for-heisman/index.html" class="no-external">
+
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu">library</span>(tidyverse)</span>
+<span id="cb1-2"><span class="fu">library</span>(janitor)</span>
+<span id="cb1-3"><span class="fu">library</span>(ggrepel)</span>
+<span id="cb1-4"><span class="fu">library</span>(ggalt)</span>
+<span id="cb1-5"><span class="fu">library</span>(ggtext)</span>
+<span id="cb1-6"></span>
+<span id="cb1-7">fb <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"EJHeisman.csv"</span>) <span class="sc">|&gt;</span> </span>
+<span id="cb1-8">  <span class="fu">clean_names</span>() <span class="sc">|&gt;</span> </span>
+<span id="cb1-9">  <span class="fu">mutate</span>(<span class="at">player_team =</span> <span class="fu">pas…</span><span class="st"></span></span><span id="cb1-10"></span><span id="cb1-11"><span class="ot"></span><span class="fu"></span><span class="st"></span></span><span id="cb1-12"></span><span id="cb1-13"><span class="fu"></span></span></code></pre></div></div></details><div class="cell-output cell-output-stdout"><pre><code></code></pre></div><details class="code-fold"><summary></summary><div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><span class="ot"></span><span class="sc"></span></span><span id="cb3-2"><span class="fu"></span></span><span id="cb3-3"><span class="sc"></span><span class="dv"></span></span><span id="cb3-4"><span class="sc"></span></span><span id="cb3-5"><span class="fu"></span><span class="at"></span><span class="fu"></span><span class="st"></span><span class="st"></span><span class="at"></span><span class="cn"></span></span><span id="cb3-6"></span><span id="cb3-7"></span><span id="cb3-8"><span class="ot"></span><span class="sc"></span></span><span id="cb3-9"><span class="fu"></span></span><span id="cb3-10"><span class="sc"></span><span class="st"></span></span><span id="cb3-11"></span><span id="cb3-12"></span><span id="cb3-13"></span><span id="cb3-14"><span class="fu"></span><span class="sc"></span><span class="fu"></span><span class="at"></span><span class="fu"></span><span class="at"></span><span class="fu"></span><span class="at"></span><span class="at"></span><span class="st"></span><span class="sc"></span></span><span id="cb3-15"><span class="fu"></span><span class="at"></span><span class="fu"></span><span class="at"></span><span class="fu"></span><span class="at"></span><span class="at"></span><span class="st"></span><span class="sc"></span></span><span id="cb3-16"><span class="fu"></span></span><span id="cb3-17"><span class="at"></span><span class="st"></span></span><span id="cb3-18"><span class="at"></span><span class="st"></span></span><span id="cb3-19"><span class="at"></span><span class="st"></span></span><span id="cb3-20"><span class="at"></span><span class="st"></span><span class="sc"></span><span class="st"></span></span><span id="cb3-21"><span class="at"></span><span class="st"></span></span><span id="cb3-22"><span class="sc"></span></span><span id="cb3-23"><span class="fu"></span><span class="sc"></span></span><span id="cb3-24"><span class="fu"></span></span><span id="cb3-25"><span class="at"></span><span class="fu"></span><span class="at"></span><span class="dv"></span><span class="at"></span><span class="st"></span></span><span id="cb3-26"><span class="at"></span><span class="fu"></span><span class="at"></span><span class="dv"></span></span><span id="cb3-27"><span class="at"></span><span class="fu"></span><span class="at"></span><span class="dv"></span></span><span id="cb3-28"><span class="at"></span><span class="fu"></span></span><span id="cb3-29"><span class="at"></span><span class="st"></span></span><span id="cb3-30"></span></code></pre></div></div></details><div class="cell-output-display"><div><figure class="figure"><p></p></figure></div></div>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/should-emmett-johnson-be-taken-serious-for-heisman/index.html" class="no-external">
+<div class="listing-date">
+Dec 5, 2025
+</div>
+<div class="listing-author">
+Gavyn Nylander
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="b2x5bXBpY3MlMkNzd2ltbWluZw==" data-listing-date-sort="1763100000000" data-listing-file-modified-sort="1764698017970" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1196">
 <div class="thumbnail"><a href="./posts/does-longevity-give-an-athletic-advantage/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/does-longevity-give-an-athletic-advantage/image.png" class="thumbnail-image">
